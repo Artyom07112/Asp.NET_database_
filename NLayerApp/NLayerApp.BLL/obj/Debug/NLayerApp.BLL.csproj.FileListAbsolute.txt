@@ -1,0 +1,16 @@
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.pdb
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\Ninject.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.pdb
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.dll.config
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.xml
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\Ninject.xml
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csproj.AssemblyReference.cache
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csproj.CopyComplete
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.pdb

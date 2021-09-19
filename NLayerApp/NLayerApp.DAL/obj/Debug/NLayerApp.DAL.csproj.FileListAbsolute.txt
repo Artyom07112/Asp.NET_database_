@@ -1,0 +1,12 @@
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll.config
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\NLayerApp.DAL.pdb
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csproj.AssemblyReference.cache
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.csproj.CopyComplete
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.dll
+C:\Users\artik\source\repos\NLayerApp\NLayerApp.DAL\obj\Debug\NLayerApp.DAL.pdb
